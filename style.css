@@ -1,0 +1,32 @@
+body {
+    border-style: solid;
+    margin: 15px;
+    background-color: beige;
+    padding: 10px;
+    padding-top: 0px;
+    width: 500px;
+}
+
+.header {
+    background-color: maroon;
+    color: white;
+}
+
+.wrong {
+    color: red;
+    font-weight: bold;
+}
+
+h1,
+h2 {
+    font-weight: bold;
+}
+
+h2 {
+    color: maroon;
+}
+
+.citation {
+    font-size: 80%;
+    text-align: right;
+}
